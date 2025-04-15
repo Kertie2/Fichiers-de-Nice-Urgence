@@ -23,7 +23,7 @@ Le projet "Fichiers de Nice Urgence" est une plateforme en ligne permettant la g
 4. Mettez en place un serveur local ou de production pour héberger le site.
 
 **Utilisation** :
-- Connectez-vous avec un compte administrateur pour accéder aux fichiers.
+- Connectez-vous avec un compte administrateur pour accéder aux fichiers. (Par défaut: `admin@example.com` + `Pass1234`
 - Utilisez les outils d'administration pour ajouter, modifier ou supprimer des fichiers.
   
 **Technologies utilisées** :
